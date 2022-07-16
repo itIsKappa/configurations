@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/ali/Public/EFI/Boot'
+let g:netrw_dirhist_6='/home/ali/Public/FILM/The.Good.and.The.Great'
+let g:netrw_dirhist_5='/home/ali/Documents/Schule/doceaux/physics/gravitation'
+let g:netrw_dirhist_4='/home/ali/Documents/Schule/doceaux/mathematics/conic-sections'
+let g:netrw_dirhist_3='/home/ali/Documents/Schule/doceaux/physics/oscillations'
+let g:netrw_dirhist_2='/home/ali/Documents/Schule/doceaux/physics/gravitation'
+let g:netrw_dirhist_1='/home/ali/Documents/Schule/doceaux/physics/thermal-properties'
+let g:netrw_dirhist_0='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_9='/home/ali/Documents/Miscellaneous/TWK'
+let g:netrw_dirhist_8='/home/ali/Documents/Miscellaneous'
